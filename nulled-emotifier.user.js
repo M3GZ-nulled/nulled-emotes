@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         Nulled Emotifier
 // @namespace    https://www.nulled.to/user/4103370-m3gz/
-// @version      0.3
+// @version      0.4
 // @description  Custom emotes for nulled.to Kappa
 // @author       M3GZ
 // @match        https://www.nulled.to/*
 // @require      https://cdn.jsdelivr.net/npm/vue
+// @updateURL	 https://github.com/M3GZ-nulled/nulled-emotes/raw/main/nulled-emotifier.user.js
+// @downloadURL  https://github.com/M3GZ-nulled/nulled-emotes/raw/main/nulled-emotifier.user.js
 // @grant        none
 // ==/UserScript==
 
