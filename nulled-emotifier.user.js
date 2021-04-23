@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Nulled Emotifier
 // @namespace    https://www.nulled.to/user/4103370-m3gz/
-// @version      0.5
+// @version      0.6
 // @description  Custom emotes for nulled.to Kappa
 // @author       M3GZ
 // @match        https://www.nulled.to/*
